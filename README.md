@@ -2,7 +2,7 @@
 - My research work centers around NLP for Requirements elicitation.
 - I did my post graduation from the Indian Institute of Technology, Jodhpur.
 - I’m interested in Image as well as Natural language processing applications.
-- I have previously worked on developing image fusion techniques using data driven techniques.
+- I have previously worked on developing image fusion methods for visual as well as multi-modal imagery data.
 - I'm open to collaborate for any kind of Image processing projects -- if it finds my interest.
 - Other than this, I love to play football !
 - How to reach me: mail at aditya2kahol@gmail.com or kahol.1@iitj.ac.in
