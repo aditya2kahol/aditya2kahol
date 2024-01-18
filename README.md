@@ -1,7 +1,7 @@
-- Hi, I’m @aditya2kahol, I'm a researcher at TCS Research.
-- My work is focussed around NLP for Requirements elicitation.
+- Hi, I’m @aditya2kahol, I'm a researcher at TCS RESEARCH.
+- My work is focussed around various applications of NLP involving text generation.
 - I did my post graduation from the Indian Institute of Technology, Jodhpur.
-- I’m interested in Image as well as Natural language processing applications.
+- I’m interested in Vision as well as Natural language processing applications.
 - I have previously worked on developing image fusion methods for visual as well as multi-modal imagery data.
 - I'm open to collaborate for any kind of Image processing projects -- if it finds my interest.
 - Other than this, I love to play football !
